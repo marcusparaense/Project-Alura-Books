@@ -20,10 +20,13 @@ Website com tematica de plataforma de venda de livros, com desenvolvimento respo
 Em geral a proposta do projeto é para prática do uso das tecnologias para estilização, usando o figma como base de design.
 Abaixo estão as principais funções utilizadas:
 <h3>Todas Plataformas</h3>
+
 - [x] Menu scrolldown
 - [x] Carrossel de imagens
 - [x] secção tópicos mais acessados
+
 <h3>Plataforma Mobile</h3>
+
 - [x] Menu tipo hamburguer
 
 <h2> 🖥️ Layout</h2>
@@ -51,9 +54,11 @@ Abaixo estão as principais funções utilizadas:
 
 
 <h2> 👣 Próximos passos</h2>
+
 <p> Continuar aprimorando o desenvolvimento web a medida que absorvo conhecimento de outras tecnologias de programação</p>
 
 <h2> ☎️ Contato</h2>
+
 <a href="www.linkedin.com/in/marcus-paraense-7a90aa227"> Linkedin </a>
 
 <a href="mail.to/marcus_paraense@yahoo.com.br"> E-mail </a>
